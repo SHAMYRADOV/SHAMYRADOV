@@ -1,4 +1,4 @@
-<h1 align="center">Hi there! I am Kerim <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Smiling%20Face%20with%20Sunglasses.png" width="35"></h1>
+<h1 align="center">Hi there! I am Kerim <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35"></h1>
 
 <h2 align="center">Full Stack Web Developer | 4 Years of Experience</h2>
 
