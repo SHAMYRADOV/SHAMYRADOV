@@ -1,4 +1,4 @@
-<h1 align="center">Hi there! I am Kerim <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35"></h1>
+<h1 align="center">Hi there! I am Kerim <img height="30px" src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430"></h1>
 
 <h2 align="center">Full Stack Web Developer | 4 Years of Experience</h2>
 
