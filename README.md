@@ -1,4 +1,4 @@
-<h1 align="center">Hi there! I am Kerim 🤓</h1>
+<h1 align="center">Hi there! I am Kerim 😎</h1>
 
 <h2 align="center">Full Stack Web Developer | 4 Years of Experience</h2>
 
@@ -7,7 +7,7 @@
   <a href="https://www.linkedin.com/in/kerimshamyradov/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>
 
-## About Me
+## 👨‍💻 About Me
 
 Full Stack Web Developer with 4 years of hands-on experience building scalable, production-ready applications. I specialize in creating AI-powered solutions, including intelligent call agents that engage in real-time conversations with users. My expertise spans developing full-stack web applications, designing internal operational systems, and automating complex workflows. I've built shipment-tracking dashboards, backend services integrated with external APIs, and tools that transform manual processes into efficient automated solutions—all deployed in production environments serving real teams and improving operational reliability.
 
